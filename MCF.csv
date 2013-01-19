@@ -1,52 +1,43 @@
-# ----------------------------------------,,
-# www.cloga.info,,
-# Top Conversion Paths,,
-# 20121217-20130116,,
-# ----------------------------------------,,
-,,
-Basic Channel Grouping Path,Conversions,Conversion Value
-Direct,29,$1.70 
-Referral,29,$1.40 
-Organic Search,21,$1.50 
-Direct > Direct,7,$0.40 
-Referral > Direct,5,$0.30 
-Organic Search > Direct,4,$0.30 
-Organic Search > Referral,4,$0.20 
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct,3,$0.20 
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct,3,$0.20 
-Organic Search > Organic Search,3,$0.30 
-Direct > Direct > Direct,2,$0.10 
-Direct > Direct > Direct > Direct > Direct > Direct > Direct,2,$0.10 
-Referral > Direct > Direct,2,$0.10 
-Organic Search > Organic Search > Direct,2,$0.10 
-Social Network > Social Network > Direct > Social Network > Direct > Direct > Referral,2,$0.10 
-Direct > Direct > Direct > Direct,1,$0.00 
-Direct > Direct > Direct > Direct > Direct,1,$0.00 
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct,1,$0.10 
-Direct > Direct > Direct > Referral > Direct,1,$0.00 
-Direct > Direct > Referral > Direct > Direct > Direct,1,$0.10 
-Direct > Referral,1,$0.10 
-Direct > Referral > Direct,1,$0.10 
-Direct > Organic Search > Referral,1,$0.10 
-Referral > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Direct > Direct > Referral,1,$0.10 
-Referral > Direct > Direct > Direct > Referral > Direct,1,$0.10 
-Referral > Direct > Direct > Direct > Referral > Direct > Direct,1,$0.10 
-Referral > Direct > Referral > Direct > Referral > Referral,1,$0.10 
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct,1,$0.10 
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Social Network,1,$0.10 
-Referral > Direct > Social Network > Direct > Direct,1,$0.10 
-Referral > Direct > Social Network > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Social Network > Direct > Direct > Direct > Direct,1,$0.10 
-Referral > Direct > Social Network > Direct > Direct > Direct > Direct > Direct,1,$0.10 
-Organic Search > Direct > Direct > Direct,1,$0.00 
-Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.00 
-Organic Search > Direct > Organic Search > Direct,1,$0.10 
-Organic Search > Direct > Organic Search > Organic Search,1,$0.10 
-Organic Search > Direct > Organic Search > Organic Search > Direct,1,$0.10 
-,147,$9.20 
+# ----------------------------------------
+# www.cloga.info
+# 热门转化路径
+# 20121219-20130118
+# ----------------------------------------
+
+基本渠道分组路径,转化次数,转化价值
+引荐,32,￥1.80
+直接,28,￥1.70
+自然搜索,23,￥1.60
+自然搜索 > 直接,7,￥0.60
+直接 > 直接,6,￥0.40
+直接 > 直接 > 直接,3,￥0.10
+直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 引荐 > 直接 > 直接 > 直接,3,￥0.20
+引荐 > 直接,3,￥0.20
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐 > 直接 > 直接 > 直接 > 自然搜索 > 直接,3,￥0.20
+引荐 > 直接 > 直接,2,￥0.10
+社交网络 > 社交网络 > 直接 > 社交网络 > 直接 > 直接 > 引荐,2,￥0.10
+自然搜索 > 引荐,2,￥0.10
+直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.10
+直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.00
+直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.00
+直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 直接 > 引荐 > 直接 > 直接 > 直接 > 直接,1,￥0.10
+直接 > 直接 > 直接 > 引荐 > 直接,1,￥0.00
+直接 > 直接 > 引荐 > 直接 > 直接 > 直接,1,￥0.10
+直接 > 引荐,1,￥0.10
+直接 > 引荐 > 直接,1,￥0.10
+引荐 > 直接 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 直接 > 直接 > 引荐,1,￥0.10
+引荐 > 直接 > 直接 > 直接 > 引荐 > 直接,1,￥0.10
+引荐 > 直接 > 直接 > 直接 > 引荐 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐,1,￥0.10
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐 > 直接 > 直接 > 直接 > 自然搜索 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐 > 直接 > 直接 > 直接 > 自然搜索 > 直接 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐 > 直接 > 直接 > 直接 > 自然搜索 > 直接 > 直接 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 引荐 > 直接 > 引荐 > 引荐 > 直接 > 直接 > 直接 > 自然搜索 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.10
+引荐 > 直接 > 社交网络 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.10
+自然搜索 > 直接 > 直接 > 直接 > 直接 > 直接,1,￥0.00
+自然搜索 > 直接 > 自然搜索 > 直接,1,￥0.10
+自然搜索 > 直接 > 自然搜索 > 自然搜索,1,￥0.10
+自然搜索 > 直接 > 自然搜索 > 自然搜索 > 直接,1,￥0.10
+,136,￥8.90
+

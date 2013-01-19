@@ -22,7 +22,7 @@ for line in lines:
     paths=line.split(',')[0].split(' > ')
 ##    print paths
     conversions=line.split(',')[1]
-    values=line.split(',')[2][1:]
+    values=line.split(',')[2][2:]
     if len(paths)==1:
         channel=paths
         cov=[conversions,values]
