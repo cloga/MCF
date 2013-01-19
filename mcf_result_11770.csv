@@ -1,0 +1,27 @@
+-----first touch------
+channel,conversions,value
+Social Network,2,0.10
+Referral,53.0,3.4
+Direct,53.0,3.0
+Organic Search,39.0,2.7
+
+
+
+-----last touch------
+channel,conversions,value
+Social Network,1,0.10
+Referral,39.0,2.1
+Direct,82.0,5.1
+Organic Search,25.0,1.9
+
+
+
+-----linear------
+channel,conversions,value
+Social Network,1.825,0.139642857143
+Referral,41.5296620047,2.33989260739
+Direct,71.1409257409,4.33744755245
+Organic Search,32.5044122544,2.38301698302
+
+
+

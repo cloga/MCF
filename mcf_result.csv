@@ -1,0 +1,21 @@
+-----first touch------
+channel,conversions,value
+Referral,37.0,1.9
+Direct,39.0,2.3
+Organic Search,32.0,2.3
+
+
+
+-----last touch------
+channel,conversions,value
+Referral,33.0,1.6
+Direct,51.0,3.1
+Organic Search,24.0,1.8
+
+
+
+-----linear------
+channel,conversions,value
+Referral,34.8636363636,1.74090909091
+Direct,44.8636363636,2.69090909091
+Organic Search,28.2727272727,2.06818181818
