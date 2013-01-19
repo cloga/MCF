@@ -1,52 +1,52 @@
-# ----------------------------------------,,,,
-# www.cloga.info,,,,
-# Top Conversion Paths,,,,
-# 20121217-20130116,,,,
-# ----------------------------------------,,,,
-,,,,
-Basic Channel Grouping Path,Conversions,Conversion Value,Last,First
-Direct,29,$1.70 ,Direct,
-Referral,29,$1.40 ,Referral,
-Organic Search,21,$1.50 ,Organic,
-Direct > Direct,7,$0.40 ,Direct,
-Referral > Direct,5,$0.30 ,Direct,
-Organic Search > Direct,4,$0.30 ,Direct,
-Organic Search > Referral,4,$0.20 ,Referral,
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct,3,$0.20 ,Direct,
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct,3,$0.20 ,Direct,
-Organic Search > Organic Search,3,$0.30 ,Organic,
-Direct > Direct > Direct,2,$0.10 ,Direct,
-Direct > Direct > Direct > Direct > Direct > Direct > Direct,2,$0.10 ,Direct,
-Referral > Direct > Direct,2,$0.10 ,Direct,
-Organic Search > Organic Search > Direct,2,$0.10 ,Direct,
-Social Network > Social Network > Direct > Social Network > Direct > Direct > Referral,2,$0.10 ,Referral,
-Direct > Direct > Direct > Direct,1,$0.00 ,Direct,
-Direct > Direct > Direct > Direct > Direct,1,$0.00 ,Direct,
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 ,Direct,
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 ,Direct,
-Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct,1,$0.10 ,Direct,
-Direct > Direct > Direct > Referral > Direct,1,$0.00 ,Direct,
-Direct > Direct > Referral > Direct > Direct > Direct,1,$0.10 ,Direct,
-Direct > Referral,1,$0.10 ,Referral,
-Direct > Referral > Direct,1,$0.10 ,Direct,
-Direct > Organic Search > Referral,1,$0.10 ,Referral,
-Referral > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Direct > Direct > Referral,1,$0.10 ,Referral,
-Referral > Direct > Direct > Direct > Referral > Direct,1,$0.10 ,Direct,
-Referral > Direct > Direct > Direct > Referral > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Referral > Direct > Referral > Referral,1,$0.10 ,Referral,
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Social Network,1,$0.10 ,Social Network,
-Referral > Direct > Social Network > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Social Network > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Social Network > Direct > Direct > Direct > Direct,1,$0.10 ,Direct,
-Referral > Direct > Social Network > Direct > Direct > Direct > Direct > Direct,1,$0.10 ,Direct,
-Organic Search > Direct > Direct > Direct,1,$0.00 ,Direct,
-Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.00 ,Direct,
-Organic Search > Direct > Organic Search > Direct,1,$0.10 ,Direct,
-Organic Search > Direct > Organic Search > Organic Search,1,$0.10 ,Organic,
-Organic Search > Direct > Organic Search > Organic Search > Direct,1,$0.10 ,Direct,
-,147,$9.20 ,,
+# ----------------------------------------,,
+# www.cloga.info,,
+# Top Conversion Paths,,
+# 20121217-20130116,,
+# ----------------------------------------,,
+,,
+Basic Channel Grouping Path,Conversions,Conversion Value
+Direct,29,$1.70 
+Referral,29,$1.40 
+Organic Search,21,$1.50 
+Direct > Direct,7,$0.40 
+Referral > Direct,5,$0.30 
+Organic Search > Direct,4,$0.30 
+Organic Search > Referral,4,$0.20 
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct,3,$0.20 
+Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct,3,$0.20 
+Organic Search > Organic Search,3,$0.30 
+Direct > Direct > Direct,2,$0.10 
+Direct > Direct > Direct > Direct > Direct > Direct > Direct,2,$0.10 
+Referral > Direct > Direct,2,$0.10 
+Organic Search > Organic Search > Direct,2,$0.10 
+Social Network > Social Network > Direct > Social Network > Direct > Direct > Referral,2,$0.10 
+Direct > Direct > Direct > Direct,1,$0.00 
+Direct > Direct > Direct > Direct > Direct,1,$0.00 
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1,$0.00 
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct,1,$0.10 
+Direct > Direct > Direct > Referral > Direct,1,$0.00 
+Direct > Direct > Referral > Direct > Direct > Direct,1,$0.10 
+Direct > Referral,1,$0.10 
+Direct > Referral > Direct,1,$0.10 
+Direct > Organic Search > Referral,1,$0.10 
+Referral > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Direct > Direct > Referral,1,$0.10 
+Referral > Direct > Direct > Direct > Referral > Direct,1,$0.10 
+Referral > Direct > Direct > Direct > Referral > Direct > Direct,1,$0.10 
+Referral > Direct > Referral > Direct > Referral > Referral,1,$0.10 
+Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct,1,$0.10 
+Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Referral > Direct > Referral > Referral > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Social Network,1,$0.10 
+Referral > Direct > Social Network > Direct > Direct,1,$0.10 
+Referral > Direct > Social Network > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Social Network > Direct > Direct > Direct > Direct,1,$0.10 
+Referral > Direct > Social Network > Direct > Direct > Direct > Direct > Direct,1,$0.10 
+Organic Search > Direct > Direct > Direct,1,$0.00 
+Organic Search > Direct > Direct > Direct > Direct > Direct,1,$0.00 
+Organic Search > Direct > Organic Search > Direct,1,$0.10 
+Organic Search > Direct > Organic Search > Organic Search,1,$0.10 
+Organic Search > Direct > Organic Search > Organic Search > Direct,1,$0.10 
+,147,$9.20 
