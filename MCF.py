@@ -1,10 +1,9 @@
 from __future__ import division
 import random
 import collections
-import csv
 def agg_dic(dic,key,value):
     if dic.has_key(key):
-        dic[key]=[dic[key][0]+value[0],dic[key][1]+value[1]]
+        dic[key]=[float(dic[key][0])+float(value[0]),float(dic[key][1])+float(value[1])]
     else:
         dic[key]=value
 def output_dic(dic):
@@ -17,21 +16,13 @@ dic_f={}##first touch
 dic_l={}##last touch
 dic_ln={}##linear
 with open ('mcf.csv') as f:
-    lines=f.read().split('\n')[7:-3]
+    file=f.read()
+lines=file.split('\n')[7:-3]
 for line in lines:
     paths=line.split(',')[0].split(' > ')
-    if len(line.split('","'))>1:#value & conversion>1000
-        conversions=float(','.join(line.split(',')[1:]).split('","')[0].replace('"','').replace(',',''))
-        values=float(','.join(line.split(',')[1:]).split('","')[1].replace('"','').replace(',','')[2:])
-    elif len(str(line.split(',')[1]).split('"'))>1:#conversions>1000
-        conversions=float(''.join(line.split(',')[1:-1]).replace('"',''))
-        values=float(''.join(line.split(',')[-1]).replace('"','')[2:])
-    elif len(str(line.split(',')[-1]).split('"'))>1:#value>1000
-        conversions=float(''.join(line.split('"')[0].split(',')[1:]).replace('"',''))
-        values=float(''.join(line.split(',')[2:]).replace('"','')[2:])
-    else:
-        conversions=float(''.join(line.split(',')[1:-1]).replace('"',''))
-        values=float(''.join(line.split(',')[-1]).replace('"','')[2:])
+##    print paths
+    conversions=line.split(',')[1]
+    values=line.split(',')[2][1:]
     if len(paths)==1:
         channel=paths
         cov=[conversions,values]
@@ -52,6 +43,9 @@ for line in lines:
             weight=c[1]/len(paths)
             cov=[float(conversions)*weight,float(values)*weight]
             agg_dic(dic_ln,c[0],cov)
+##print 'dic_f',dic_f
+##print 'dic_l',dic_l
+##print 'dic_ln',dic_ln
 output='mcf_result_'+str(random.randrange(1, 100000))+'.csv'
 with open (output,'w') as f:
     f.write('-----first touch------\n')
